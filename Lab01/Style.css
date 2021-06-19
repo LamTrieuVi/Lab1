@@ -1,0 +1,93 @@
+﻿body {
+    width:1425px;
+    margin:0px auto;
+}
+header{
+    width:1425px;
+    height:320px;
+}
+
+nav{
+    width:1425px;
+    height:120px;
+}
+nav .menu_tren {
+        height: 50px;
+        line-height: 35px;
+}
+
+nav .menu_tren .button {
+        float: right;
+        margin-right: 150px;
+        padding: 0 20px;
+}
+
+    nav .menu_duoi ul {
+        list-style: none;
+    }
+
+        nav .menu_duoi ul li {
+            float: left;
+            line-height: 35px;
+            padding: 0 8px;
+        }
+            nav .menu_duoi ul li a {
+                color: #000000;
+                text-decoration: none;
+            }
+
+article{
+    width:900px;
+    clear:left;
+    margin:0px auto;
+}
+
+article .left{
+    float:left;
+    width:630px;
+}
+article .left .tren
+{
+    width:630px;
+    height:250px;
+}
+    article .left .tren .img {
+        float: left;
+        margin-right: 15px;
+    }
+
+    article .left .tren .item1 {
+        margin-right: 25px;
+
+    }
+        article .left .tren .item1 a {
+            font-size: 15px;
+            text-decoration: none;
+            color: black;
+        }
+
+
+
+article .left .duoi{
+    float:left;
+    
+}
+
+    article .left .duoi .item {
+        float: left;
+        padding:2%;
+        width: 28%;
+    }
+
+    article .left .duoi .item a{
+        font-size: 15px;
+        text-decoration: none;
+        color: black;
+    }
+
+    article .right {
+        float: right;
+        width: 250px;
+        padding-top: 20px;
+    }
+
